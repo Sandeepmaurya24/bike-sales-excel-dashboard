@@ -2,13 +2,14 @@
 
 An interactive Excel dashboard that analyses bike buyer data to understand **who buys bikes** based on income, commute distance, age and demographics. Built with Pivot Tables, Pivot Charts and Slicers.
 
-> This is my first Excel data analytics project, built by following the tutorial by [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+> This is my first Excel data analytics project.
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Bike Sales Dashboard](images/dashboard.png)
+![Bike Sales Dashboard]<img width="862" height="691" alt="Bike Sales dashboard" src="https://github.com/user-attachments/assets/97a90d17-6e7f-49b1-b2ab-cd345451f375" />
+
 
 ---
 
@@ -85,7 +86,7 @@ The dashboard lets the user filter the data by marital status, region and educat
 4. Use the slicers on the left to filter by Marital Status, Region or Education.
 
 ```bash
-git clone https://github.com/<Sandeepmaurya24>/<bike-sales-excel-dashboard>.git
+git clone https://github.com/Sandeepmaurya24/bike-sales-excel-dashboard.git
 ```
 
 ---
