@@ -8,7 +8,9 @@ An interactive Excel dashboard that analyses bike buyer data to understand **who
 
 ## 📸 Dashboard Preview
 
-![Bike Sales Dashboard]<img width="862" height="691" alt="Bike Sales dashboard" src="https://github.com/user-attachments/assets/97a90d17-6e7f-49b1-b2ab-cd345451f375" />
+<p align="center">
+  <img width="600" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/97a90d17-6e7f-49b1-b2ab-cd345451f375" />
+</p>
 
 
 ---
